@@ -1,0 +1,87 @@
+{
+  "status": "1",
+  "data": [
+    {
+      "id": "2111",
+      "parent_id": "0",
+      "module_name": "Connect wiPharmacy",
+      "is_last_node": false,
+      "can_access": "0",
+      "child": [
+        {
+          "id": "2115",
+          "parent_id": "2111",
+          "module_name": "Connect wiPharmacy",
+          "is_last_node": false,
+          "can_access": "0",
+          "child": [
+            {
+              "can_read": false,
+              "id": "2112"
+            },
+            {
+              "can_update": false,
+              "id": "2113"
+            },
+            {
+              "can_write": false,
+              "id": "2114"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2116",
+      "parent_id": "0",
+      "module_name": "Services",
+      "is_last_node": false,
+      "can_access": "0",
+      "child": [
+        {
+          "id": "2117",
+          "parent_id": "2116",
+          "module_name": "Registration",
+          "is_last_node": false,
+          "can_access": "0",
+          "child": [
+            {
+              "can_read": false,
+              "id": "2118"
+            },
+            {
+              "can_update": false,
+              "id": "2119"
+            },
+            {
+              "can_write": false,
+              "id": "2120"
+            }
+          ]
+        },
+        {
+          "id": "2121",
+          "parent_id": "2116",
+          "module_name": "Admission",
+          "is_last_node": false,
+          "can_access": "0",
+          "child": [
+            {
+              "can_read": false,
+              "id": "2122"
+            },
+            {
+              "can_update": false,
+              "id": "2123"
+            },
+            {
+              "can_write": false,
+              "id": "2124"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "message": "ACOs loaded successfully!"
+}

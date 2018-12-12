@@ -14,15 +14,15 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.wicare.adapters.AccessPermissionAdapter;
-import com.wicare.dataobject.AppInstance;
-import com.wicare.dataobject.PermissionTreeModel;
-import com.wicare.dataobject.saveAccessPermissionRole;
-import com.wicare.interfaces.ServiceRedirection;
-import com.wicare.managers.PracticeDeskManager;
-import com.wicare.practice.R;
-import com.wicare.utils.Constants;
-import com.wicare.utils.Utility;
+import com.sampleproject.adapters.AccessPermissionAdapter;
+import com.sampleproject.dataobject.AppInstance;
+import com.sampleproject.dataobject.PermissionTreeModel;
+import com.sampleproject.dataobject.saveAccessPermissionRole;
+import com.sampleproject.interfaces.ServiceRedirection;
+import com.sampleproject.managers.PracticeDeskManager;
+import com.sampleproject.practice.R;
+import com.sampleproject.utils.Constants;
+import com.sampleproject.utils.Utility;
 
 import java.util.ArrayList;
 import java.util.List;

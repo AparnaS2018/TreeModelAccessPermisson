@@ -10,8 +10,8 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.ToggleButton;
 
-import com.wicare.dataobject.PermissionTreeModel;
-import com.wicare.practice.R;
+import com.sampleproject.dataobject.PermissionTreeModel;
+import com.sampleproject.practice.R;
 
 import java.util.List;
 
